@@ -5,7 +5,7 @@ Student Name: BERMIO, CARL JANN
 Date: 8/29/2026 
 Section: BSIT 3.5
 
-GitHub Repository URL:
+GitHub Repository URL: https://github.com/423005329/sdlc-foundations-lab
 
 PART 1: GITHUB ONBOARDING & SETUP VERIFICATION
 
