@@ -5,7 +5,7 @@ Student Name: BERMIO, CARL JANN
 Date: 8/29/2026 
 Section: BSIT 3.5
 
-GitHub Repository URL: https://github.com/ajhayrobiso02/sdlc-foundation-lab/edit/main/README.md
+GitHub Repository URL:
 
 PART 1: GITHUB ONBOARDING & SETUP VERIFICATION
 
